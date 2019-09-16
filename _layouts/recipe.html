@@ -18,7 +18,7 @@ font: macro
     </header>
   </div>
 
-  {% if page.ingredients %}
+  {% if not page.ingredients %}
     {% include custom/sidebar.html %}
   {% endif %}
 
