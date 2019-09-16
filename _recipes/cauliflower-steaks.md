@@ -3,8 +3,8 @@ title: 'Cauliflower steaks with roasted red pepper & olive salsa'
 ref: cover
 image: true
 time: 30
-category: lunch
-tags: [vegan, vegetarian, quick]
+category: movie review
+tags: [Japanese movie]
 ingredients:
   
 ---
