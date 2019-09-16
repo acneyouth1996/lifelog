@@ -6,6 +6,9 @@ time: 30
 category: movie review
 tags: [Japanese movie]
 ingredients:
+    - name: cauliflower
+        amount: 1
+        unit:
   
 ---
 
@@ -16,5 +19,3 @@ Millennium Actress @ [MetroGraph]()
 rating: ★★★★☆
 
 ---
-
-_From [BBC Good Food](https://www.bbcgoodfood.com/recipes/cauliflower-steaks-roasted-red-pepper-olive-salsa)._
