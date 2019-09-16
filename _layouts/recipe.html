@@ -3,7 +3,7 @@ layout: default
 font: macro
 ---
 
-<article class="recipe{% if page.ingredients %} recipe-hasSidebar{% endif %}{% if page.image %} recipe-hasBackground{% endif %}">
+<article class="recipe{% if not page.ingredients %} recipe-hasSidebar{% endif %}{% if page.image %} recipe-hasBackground{% endif %}">
   <div class="content-top">
     {% include core/metabar.html %}
 
@@ -18,7 +18,7 @@ font: macro
     </header>
   </div>
 
-  {% if page.ingredients %}
+  {% if not page.ingredients %}
     {% include custom/sidebar.html %}
   {% endif %}
 
