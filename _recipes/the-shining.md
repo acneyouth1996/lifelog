@@ -15,6 +15,6 @@ The Shining @ [IFC center](http://www.ifccenter.com/)
 
 rating: ★★★★☆
 
-review: MotherFucker! Speak English!!!
+review: 午夜场看的，看完已经很晚了。
 
 ---
