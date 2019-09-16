@@ -15,6 +15,7 @@ ingredients:
 1. 甲壳虫
 2. 奔驰s63 amg coupe
 
+![useful image](assets/images/posts/car1.jpeg)
 
 <div class="imgcap">
 <img src="assets/images/posts/car1.jpeg" style="border:none;width:50%">
