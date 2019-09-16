@@ -43,13 +43,13 @@ url: https://yonglhuang.com
 baseurl: /lifelog
 assets: /assets
 images: /images/
-image: index-large.jpg
+image: cover-large.png
 logo: /assets/icons/apple-icon-144x144.png
 
 author:
   name: Yong Huang
   bio: Hi, I'm Yong, the author of this blog. Nice to meet you!
-  image: author
+  
   url: https://yonglhuang.com
   email: yh849@cornell.edu
   twitter: 
