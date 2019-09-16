@@ -7,7 +7,7 @@ category: movie review
 tags: [Japanese]
 ---
 
-Millennium Actress @ [MetroGraph]()
+Millennium Actress @ [MetroGraph](http://metrograph.com/film/)
 
 09/15/2019, watched at Metrograph NYC.
 
