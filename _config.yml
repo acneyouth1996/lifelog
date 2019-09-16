@@ -44,7 +44,7 @@ baseurl: /lifelog
 assets: /assets
 images: /images/
 image: cover-large.png
-logo: /assets/icons/apple-icon-144x144.png
+logo: /assets/icons/logo.png
 
 author:
   name: Yong Huang
