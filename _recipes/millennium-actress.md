@@ -5,7 +5,10 @@ image: true
 time: 1
 category: movie review
 tags: [Japanese]
-ingredients: true
+ingredients:
+    - name: ok
+        amount: 1
+        unit:
 ---
 
 Millennium Actress @ [MetroGraph](http://metrograph.com/film/)
