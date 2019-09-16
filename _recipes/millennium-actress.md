@@ -13,4 +13,6 @@ Millennium Actress @ [MetroGraph](http://metrograph.com/film/)
 
 rating: ★★★★☆
 
+review: 电影很好看，稍微有点短，但是前座是个爆炸头，挡住了字幕，看得很难受。。。
+
 ---
