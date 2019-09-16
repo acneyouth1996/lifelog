@@ -3,7 +3,7 @@ title: 'Unpeeled'
 ref: unpeeled
 image: true
 time: 1
-category: music
+category: food
 tags: [CageTheElephant]
 ingredients:
   - name: ok
