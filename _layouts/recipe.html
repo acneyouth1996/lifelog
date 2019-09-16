@@ -3,12 +3,12 @@ layout: default
 font: macro
 ---
 
-<article class="recipe{% if not page.ingredients %} recipe-hasSidebar{% endif %}{% if page.image %} recipe-hasBackground{% endif %}">
+<article class="recipe{% if page.ingredients %} recipe-hasSidebar{% endif %}{% if page.image %} recipe-hasBackground{% endif %}">
   <div class="content-top">
     {% include core/metabar.html %}
 
     {% if page.image %}
-      <div class="hero-background" style="background-image: url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{{ page.ref }}.png'); background-image: -webkit-image-set( url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{{ page.ref }}.png') 1x, url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{{ page.ref }}.png') 2x )"></div>
+      <div class="hero-background" style="background-image: url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{{ page.ref }}.jpeg'); background-image: -webkit-image-set( url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{{ page.ref }}.jpeg') 1x, url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{{ page.ref }}-large.jpeg') 2x )"></div>
       <div class="hero-overlay"></div>
     {% endif %}
 
@@ -18,7 +18,7 @@ font: macro
     </header>
   </div>
 
-  {% if not page.ingredients %}
+  {% if page.ingredients %}
     {% include custom/sidebar.html %}
   {% endif %}
 
