@@ -8,8 +8,7 @@ tags: [Japanese movie]
 ingredients:
     - name: cauliflower
         amount: 1
-        unit:
-  
+        unit:  
 ---
 
 Millennium Actress @ [MetroGraph]()
