@@ -2,7 +2,7 @@
 title: 'Millennium Actress'
 ref: millennium_actress
 image: true
-time: 30
+time: 1
 category: movie review
 tags: [Japanese]
 # ingredients:
