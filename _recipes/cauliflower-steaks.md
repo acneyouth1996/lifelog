@@ -1,6 +1,6 @@
 ---
 title: 'Cauliflower steaks with roasted red pepper & olive salsa'
-ref: cauliflower-steaks
+ref: cover
 image: true
 time: 30
 category: lunch
