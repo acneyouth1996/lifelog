@@ -17,31 +17,31 @@ ingredients:
 
 
 <div class="imgcap">
-<img src="/assets/images/posts/car1.jpeg" style="border:none;width:50%">
+<img src="assets/images/posts/car1.jpeg" style="border:none;width:50%">
 </div>
 
 <div class="imgcap">
-<img src="/assets/images/posts/car2.png" style="border:none;width:50%">
+<img src="assets/images/posts/car2.png" style="border:none;width:50%">
 </div>
 
 <div class="imgcap">
-<img src="/assets/images/posts/car3.jpeg" style="border:none;width:50%">
+<img src="assets/images/posts/car3.jpeg" style="border:none;width:50%">
 </div>
 
 <div class="imgcap">
-<img src="/assets/images/posts/car4.jpeg" style="border:none;width:50%">
+<img src="assets/images/posts/car4.jpeg" style="border:none;width:50%">
 </div>
 
 <div class="imgcap">
-<img src="/assets/images/posts/car5.jpeg" style="border:none;width:50%">
+<img src="assets/images/posts/car5.jpeg" style="border:none;width:50%">
 </div>
 
 <div class="imgcap">
-<img src="/assets/images/posts/car6.jpeg" style="border:none;width:50%">
+<img src="assets/images/posts/car6.jpeg" style="border:none;width:50%">
 </div>
 
 <div class="imgcap">
-<img src="/assets/images/posts/car7.jpeg" style="border:none;width:50%">
+<img src="assets/images/posts/car7.jpeg" style="border:none;width:50%">
 </div>
 
 
