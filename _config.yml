@@ -43,7 +43,7 @@ url: https://yonglhuang.com
 baseurl: /lifelog
 assets: /assets
 images: /images/
-image: cover-large.png
+image: cover.png
 logo: /assets/icons/logo.png
 
 author:
@@ -77,6 +77,7 @@ google_fonts:
 excerpt_separator: <!-- Read more -->
 
 navigation:
+  Gallery: https://yonglhuang.com/gallery
   
 
 collections:
