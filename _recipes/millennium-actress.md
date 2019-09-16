@@ -5,10 +5,10 @@ image: true
 time: 30
 category: movie review
 tags: [Japanese]
-ingredients:
-    - name: cauliflower
-        amount: 1
-        unit:  
+# ingredients:
+#     - name: cauliflower
+#         amount: 1
+#         unit:  
 ---
 
 Millennium Actress @ [MetroGraph]()
