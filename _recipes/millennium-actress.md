@@ -4,7 +4,7 @@ ref: millennium_actress
 image: true
 time: 30
 category: movie review
-tags: [Japanese movie]
+tags: [Japanese]
 ingredients:
     - name: cauliflower
         amount: 1
