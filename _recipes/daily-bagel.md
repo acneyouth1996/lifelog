@@ -13,6 +13,6 @@ ingredients:
 
 rating: ★★★★☆
 
-review: 暑假的时候安迪在office吃过几次，贼几把香，philly cheese steak可以，薯条也还行，一套下来1500卡+
+review: 暑假的时候安迪在office吃过几次，贼几把香，philly cheese steak还可以，薯条也还行，一套下来得有1500卡。
 
 ---
