@@ -77,7 +77,7 @@ google_analytics_key: UA-139551113-1
 excerpt_separator: <!-- Read more -->
 
 navigation:
-  Gallery: https://yonglhuang.com/gallery
+  # Gallery: https://yonglhuang.com/gallery
   
 
 collections:

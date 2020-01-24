@@ -5,4 +5,4 @@ lang: en
 ref: about
 ---
 
-> I am a dull boy!
+I am a dull boy!
